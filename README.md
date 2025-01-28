@@ -6,4 +6,5 @@ This tool is intended to run in ArcGIS Pro. For a detailed explanation of the ka
 To access the tool, download the .atbx file using **Code > Download ZIP**. Unzip and open the .atbx in ArcGIS Pro.
 
 This tool was developed for Virginia Energy, Geology and Mineral Resources Program by Patrick C. Finnerty and Anne C. Witt in 2022.
+
 <img width="300" align="center" src="https://www.virginia.gov/media/vagov/images/agencies/dmme_logo.jpg"/>
