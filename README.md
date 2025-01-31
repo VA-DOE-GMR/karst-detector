@@ -1,5 +1,5 @@
 # Automated karst detection
-This is a tool constructed in ArcGIS Modelbuilder for the purpose of easily applying automated karst detection methods (Doctor and Young, 2013, Wall and others, 2015) to Lidar-based DEMs. **Features identified by this tool represent modelled results only and are not ground-truthed.**
+This is a tool constructed in ArcGIS Modelbuilder for the purpose of easily applying automated karst detection methods (Doctor and Young, 2013) to Lidar-based DEMs. **Features identified by this tool represent modelled results only and are not ground-truthed.**
 
 This tool is intended to run in ArcGIS Pro. For a detailed explanation of the karst tool, review this presentation: [Using ModelBuilder in ArcGIS to auto-generate sinkholes from digital elevation models](https://ngmdb.usgs.gov/Info/dmt/docs/DMT22_Finnerty.pdf)
 
